@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Quantitative Political Science & Graduate Teaching Assistant"
   location         : "Glasgow, Scotland"
-  employer         : "University of Edinburgh & University of Glasgow"
+  employer         : "University of Edinburgh"
   uri              : # URL
   email            : "c.m.paterson-3@sms.ed.ac.uk" 
 
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #
-  researchgate     : "https://www.researchgate.net/profile/Calum-Paterson"
+  researchgate     : #
   scopus           : # URL
   zotero           : # URL
 
