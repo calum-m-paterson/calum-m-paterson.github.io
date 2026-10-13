@@ -12,7 +12,7 @@ site_theme               : "sunrise" # The available themes options are "default
 title                    : "Calum M. Paterson"
 title_separator          : "-"
 name                     : &name "Calum M. Paterson"
-description              : &description "PhD Student"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Student in Quantitative Political Science, University of Edinburgh"  # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://calum-m-paterson.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "calum-m-paterson/calum-m-paterson.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Calum M. Paterson"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Quantitative Political Science & Graduate Teaching Assistant"
   location         : "Glasgow, Scotland"
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Calum-Paterson"
   scopus           : # URL
   zotero           : # URL
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Calum Martin Paterson
+  linkedin         : "calum-martinpaterson-3ba2b7244"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -83,8 +83,9 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
+publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
